@@ -4,4 +4,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-crpi-4k74n5lx8jqf5lb8.cn-guangzhou.personal.cr.aliyuncs.com
+python:3.8-alpine3.19
+
